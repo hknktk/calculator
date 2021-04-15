@@ -15,18 +15,11 @@ body {
   position: relative;
 }
 
-.title {
-  text-align: center;
-  padding: 10px;
-  font-size: 2rem;
-  overflow: hidden;
-}
-
 .main {
   position: absolute;
-  top: 15%;
+  top: 5%;
   left: 5%;
-  height: 80%;
+  height: 85%;
   width: 90%;
   background-color: #464646;
   overflow: hidden;
